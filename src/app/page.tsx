@@ -4,6 +4,9 @@ import Key_Features from "@/components/key_features";
 import Excellence from "@/components/special";
 import Awards_Certification from "@/components/awards_certification";
 import Sweets from "@/components/sweets";
+import Login from "@/app/login";
+import Register from "@/app/signup";
+
 
 export default function Home() {
   return (
@@ -14,6 +17,8 @@ export default function Home() {
         <Excellence />
         <Awards_Certification />
         <Sweets />
+        {/* <Login />
+        <Register /> */}
     </div>
   );
 }
