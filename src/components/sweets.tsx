@@ -1,13 +1,12 @@
 import React from 'react'
 import Types from "@/components/types_of_sweets";
-import Sweet from "@/components/sweet";
+import Sweet from "@/components/card/sweet";
 
 import { GiLeafSwirl } from "react-icons/gi";
 import { PiPackageFill } from "react-icons/pi";
 import { LuClock } from "react-icons/lu";
 import { FaGlobeAmericas } from "react-icons/fa";
 import { TbLeafOff } from "react-icons/tb";
-
 
 export default function sweets() {
   return (

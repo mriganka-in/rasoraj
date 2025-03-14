@@ -6,7 +6,7 @@ import { HiOutlineShoppingCart } from "react-icons/hi";
 
 export default function navbar() {
   return (
-    <nav className="flex justify-between gap-2 items-center p-8 h-15 bg-amber-200">
+    <nav className="flex justify-between gap-2 items-center p-8 h-15 bg-[#EFC386]">
 
       <div id="logo" className="flex items-center cursor-pointer">
         <h1 className="font-bold font-serif text-3xl text-orange-600">Rasoraj</h1>

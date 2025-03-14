@@ -18,7 +18,7 @@ export default function excellence() {
       <span className="flex my-8">
         <img
           className="w-screen"
-          src="https://wallpapersmug.com/download/2560x1024/b8945c/fog-misty-day-forest-horizon.jpg"
+          src="/banner_2.png"
           alt=""
         />
       </span>
